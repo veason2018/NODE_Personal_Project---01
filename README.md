@@ -1,2 +1,3 @@
-# Personal_Learning_Projects
-In this repo, I have done some personal projects just to learn and improve!!!!!!!!!
+# Personal Project Node - 01
+In this project, I have used node and js to learn to how to make web pages dynamically !!!!!!!!!
+I have learned how to make servers, use urls and also various modules.
